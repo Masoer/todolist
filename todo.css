@@ -1,0 +1,27 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  background-image: linear-gradient(to right, blue, purple, black);
+  color: whitesmoke;
+}
+
+input {
+  width: 250px;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 15%;
+  border: 10px solid purple;
+}
+
+button {
+  background-color: black;
+  color: whitesmoke;
+  border-radius: 15%;
+  width: 100px;
+  border-width: 2px;
+}
+
+ul {
+  list-style: none;
+}
